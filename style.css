@@ -129,18 +129,16 @@
 
 	}
 
-	#profile-pic-container {
+	/* #profile-pic-container {
 		margin-top: 160px;
-		width: 100%;
-	
-		
+		width: 100%;	
 	}
 
 	 #profile-pic{
 		max-width: 100%;
 		max-height: 100vh;
 		border-radius: 50%;
-	} 
+	}  */
 }
 
 /* For ipad and tablet devices */

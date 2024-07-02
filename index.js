@@ -7,7 +7,7 @@ function displaySlackName(slackName) {
     container.innerText = slackName;
 
     //  add  data-test-id attribute directly to the container 
-    container.setAttribute('data-test-id', 'slackDisplayName');
+    container.setAttribute('data-testid', 'slackDisplayName');
 }
 
 //  Slack name
@@ -30,7 +30,7 @@ function displayCurrentUTCTime() {
     container.innerText = utcTime;
 
     // add a data-test-id attribute directly to the container if needed
-    container.setAttribute('data-test-id', 'currentTimeUTC');
+    container.setAttribute('data-testid', 'currentTimeUTC');
 }
 
 // Call the function initially to display the time
