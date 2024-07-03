@@ -70,6 +70,10 @@
 		font-family: vardana;
 		color: #005C78;
 	}
+	li{
+		font-family: vardana;
+		font-size: 15px;
+	}
 	.slack-container{
 		flex:1;
 		
@@ -195,6 +199,10 @@
 		font-family: vardana;
 		color: #005C78;
 	}
+	li{
+		font-family: vardana;
+		font-size: 14px;
+	}
 	.slack-container{
 		flex:1;
 		
@@ -317,6 +325,10 @@
 		font-weight: 200;
 		font-family: vardana;
 		color: #005C78;
+	}
+	li{
+		font-family: vardana;
+		font-size: 14px;
 	}
 	.slack-container{
 		flex:1;
