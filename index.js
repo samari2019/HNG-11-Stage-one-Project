@@ -11,7 +11,7 @@ function displaySlackName(slackName) {
 }
 
 //  Slack name
-var slackName = 'SoniaSamari';
+var slackName = 'Slack Name: SoniaSamari';
 
 // Display Slack name using function
 displaySlackName(slackName);
@@ -68,8 +68,8 @@ function displaySlackEmail(slackEmail) {
     container.innerText = slackEmail;
 }
 
-// Example Slack email
-var slackEmail = 'samarisonia@gmail.com';
+//  Slack email
+var slackEmail = ' Slack Email: samarisonia@gmail.com';
 
 // Display the Slack email using the function
 displaySlackEmail(slackEmail);

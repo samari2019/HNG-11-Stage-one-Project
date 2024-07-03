@@ -17,21 +17,22 @@
 	h1{
 		width: 100%;
 		font-family: vardana;
-		font-size: 40px;
-		color: #005C78;
+		font-size: 35px;
+		color: darkred;
 		text-align: center;
 		padding: 15px;
 		margin-top: 0px;
-		background-color: darkred;
+		background-color: #005C78;
+		text-transform: uppercase;
 	}
 	
 	hr{
 	border-width: 2px;
-	border-color: #005C78;
+	border-color: darkred;
 	}
 	h2{
 		font-family: courier;
-		font-size: 200%;
+		font-size: 30px;
 		text-align: center;
 		color:darkred;
 		margin-top: 20px;
@@ -144,12 +145,13 @@
 	}
 	h1{
 		font-family: vardana;
-		font-size: 30px;
+		font-size: 25px;
 		color: #0C1844;
 		text-align: center;
 		padding: 15px;
 		margin-top: 0px;
 		background-color: darkred;
+		text-transform: uppercase;
 	}
 	
 	hr{
@@ -272,6 +274,7 @@
 		padding: 15px;
 		margin-top: 0px;
 		background-color: darkred;
+		text-transform: uppercase;
 	}
 	
 	hr{
