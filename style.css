@@ -7,7 +7,7 @@
 @media (min-width:948px) {
 	.main-section{
 		max-width:100%;
-		background-color: #FFE9D0;
+		background-color: #FFFED3;
 	} 
 	.Container{
 		max-width:100%;
@@ -17,12 +17,12 @@
 	h1{
 		width: 100%;
 		font-family: vardana;
-		font-size: 400%;
+		font-size: 40px;
 		color: #005C78;
 		text-align: center;
 		padding: 15px;
 		margin-top: 0px;
-		background-color: #E88D67;
+		background-color: darkred;
 	}
 	
 	hr{
@@ -33,7 +33,7 @@
 		font-family: courier;
 		font-size: 200%;
 		text-align: center;
-		color:#005C78;
+		color:darkred;
 		margin-top: 20px;
 		margin-bottom: 30px;
 	}
@@ -58,7 +58,7 @@
 		font-size: 18px;
 		font-weight: 700;
 		font-family: vardana;
-		color: #005C78;
+		color: darkred;
 		line-height: 30px;
 		
 
@@ -78,7 +78,7 @@
 		font-size: 25px;
 		font-weight: 600;
 		text-align: center;
-		color:#005C78;
+		color:darkred;
 		margin-top: 20px;
 		margin-bottom: 30px;
 	}
@@ -121,31 +121,25 @@
 		font-size: 12px;
 		font-weight: 700;
 		text-align: center;
-		color:#ffffff;
+		color:white;
 		padding: 15px 25px;
-		background-color:#005C78;
+		background-color:darkred;
 		border-radius: 20px;
 		
 
 	}
 
-	/* #profile-pic-container {
-		margin-top: 160px;
-		width: 100%;	
-	}
+	 #profile-pic-container {
+		text-align: center;
 
-	 #profile-pic{
-		max-width: 100%;
-		max-height: 100vh;
-		border-radius: 50%;
-	}  */
+	}	
 }
 
 /* For ipad and tablet devices */
 @media (min-width: 481px) and (max-width: 947px){
 	.Container{
 		width:100%;
-		background-color: #FFF5E1;
+		background-color: #FFFED3;;
 		display: block;
 	}
 	h1{
@@ -155,7 +149,7 @@
 		text-align: center;
 		padding: 15px;
 		margin-top: 0px;
-		background-color: #C80036;
+		background-color: darkred;
 	}
 	
 	hr{
@@ -188,7 +182,7 @@
 		font-size: 16px;
 		font-weight: 700;
 		font-family: vardana;
-		color: #005C78;
+		color: darkred;
 		line-height: 30px;
 		
 
@@ -208,7 +202,7 @@
 		font-size: 25px;
 		font-weight: 600;
 		text-align: center;
-		color:#005C78;
+		color:darkred;
 		margin-top: 20px;
 		margin-bottom: 30px;
 	}
@@ -253,22 +247,16 @@
 		text-align: center;
 		color:#ffffff;
 		padding: 15px 25px;
-		background-color:#005C78;
+		background-color:darkred;
 		border-radius: 20px;
 		
 
 	}
-
 	#profile-pic-container {
-		margin-top: 80px;
-		width: 100%;	
-	}
+		text-align: center;
 
-	 #profile-pic{
-		max-width: 100%;
-		max-height: 100vh;
-		
-	} 
+	}	
+ 
 }
 /*Mobile devices*/
 @media (min-width: 320px) and (max-width: 480px) {
@@ -388,13 +376,7 @@
 	}
 
 	#profile-pic-container {
-		margin-top: 100px;
-		width: 100%;	
-	}
+		text-align: center;
 
-	 #profile-pic{
-		max-width: 100%;
-		max-height: 100vh;
-		
-	} 
+	}	
 }
